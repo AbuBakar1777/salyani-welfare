@@ -1,0 +1,53 @@
+.header{
+    border: 2px solid red;
+    background-color: aqua;
+    
+   
+    
+}
+.list{
+    display: inline-block;
+    padding: 1px 8px  ;
+    /* min-width: 150px; */
+}
+.p1{top: 7px;
+    position: absolute;
+    left: 350px;
+    
+
+}
+.bottom{
+    border: 2px solid red;
+    
+    
+}
+.bottom{
+    border: 2px solid red;
+    background-color: aqua;
+    height: 90px;
+}
+.list1{position: relative;
+    display: inline-block;
+  left: 300px;
+  padding: 1px 8px  ;
+  top: 30px;
+
+
+}
+.img1{top: 80px;
+   position: absolute;
+}
+ 
+.bottom1{
+    border: 2px solid red;
+    background-color:blue;
+    
+}
+.h1{
+    text-align: center;
+    color: chartreuse;
+}
+    
+.p2{
+text-align: center;
+}
